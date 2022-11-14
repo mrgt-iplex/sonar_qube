@@ -1,0 +1,6 @@
+projectKey=my:projectts1
+serverUrl=http://192.168.101.214:9000
+serverVersion=8.9.10.61524
+dashboardUrl=http://192.168.101.214:9000/dashboard?id=my%3Aprojectts1
+ceTaskId=AYRYVZMVuHAoSPeBIYvE
+ceTaskUrl=http://192.168.101.214:9000/api/ce/task?id=AYRYVZMVuHAoSPeBIYvE
